@@ -1,13 +1,6 @@
-<style>
-  @font-face {
-    font-family: 'FiraCode';
-    src: url('Font/FiraCode-SemiBold.ttf') format('truetype');
-  }
-
-  .my-font {
-    font-family: 'FiraCode';
-  }
-</style>
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@600">
+</head>
 
 ![Header Image](./Imgos/download.png)
 <!-- <style>
@@ -36,15 +29,29 @@ This section will be introduction page.
       <stop offset="100%" stop-color="#ff4eb1"/>
     </linearGradient>
     <mask id="text-mask">
-      <text x="0" y="0" fill="white" font-size="30" class="my-font"alignment-baseline="text-before-edge">Hi there! Welcome to my profile >.<</text>
-      <text x="0" y="40" fill="white" font-size="30" class="my-font"alignment-baseline="text-before-edge">My name is Miraga and I'm a developer who loves to code and learn new things.</text>
-      <text x="0" y="80" fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">I'm passionate about creating innovative solutions and building software that makes a difference.</text>
-      <text x="0" y="120" fill="white" font-size="30" class="my-font"alignment-baseline="text-before-edge">When I'm not coding, you can find me exploring new places, reading books, or playing video games.</text>
-      <text x="0" y="160" fill="white" font-size="30" class="my-font"alignment-baseline="text-before-edge">Feel free to take a look at my projects and don't hesitate to reach out if you have any questions!</text>
+      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
+        <tspan x="0" y="40" font-family="Fira Code, monospace">Hi there! Welcome to my profile >.<</tspan>
+      </text>
+      <text fill="white" font-size="30" alignment-baseline="text-before-edge">
+        <tspan x="0" y="80" font-family="Fira Code, monospace">My name is Miraga and I'm a developer who loves to code and learn new things.</tspan>
+      </text>
+      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
+        <tspan x="0" y="120" font-family="Fira Code, monospace">I'm passionate about creating innovative solutions and building software that makes a difference.</tspan>
+      </text>
+      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
+        <tspan x="0" y="160" font-family="Fira Code, monospace">When I'm not coding, you can find me exploring new places, reading books, or playing video games.</tspan>
+      </text>
+      <!-- <text x="0" y="540" fill="white">
+        <tspan font-family="Fira Code, monospace" font-size="40">This text will use the Fira Code font and the gradient.</tspan>
+      </text> -->
+      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
+        <tspan x="0" y="200" font-family="Fira Code, monospace">Feel free to take a look at my projects and don't hesitate to reach out if you have any questions!</tspan>
+      </text>
     </mask>
   </defs>
   <rect x="0" y="0" width="100%" height="100%" fill="url(#gradient)" mask="url(#text-mask)"/>
 </svg>
+
 
 <!--
 This section will be introduction page.
