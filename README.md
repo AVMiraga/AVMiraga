@@ -21,38 +21,8 @@
 This section will be introduction page.
 -->
 
-<svg viewBox="0 0 1820 200" width="100%" height="auto">
-  <defs>
-    <linearGradient id="gradient" x1="0" y1="0" x2="100%" y2="0">
-      <stop offset="0%" stop-color="#ff91de"/>
-      <stop offset="50%" stop-color="#ff73c9"/>
-      <stop offset="100%" stop-color="#ff4eb1"/>
-    </linearGradient>
-    <mask id="text-mask">
-      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
-        <tspan x="0" y="40" font-family="Fira Code, monospace">Hi there! Welcome to my profile >.<</tspan>
-      </text>
-      <text fill="white" font-size="30" alignment-baseline="text-before-edge">
-        <tspan x="0" y="80" font-family="Fira Code, monospace">My name is Miraga and I'm a developer who loves to code and learn new things.</tspan>
-      </text>
-      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
-        <tspan x="0" y="120" font-family="Fira Code, monospace">I'm passionate about creating innovative solutions and building software that makes a difference.</tspan>
-      </text>
-      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
-        <tspan x="0" y="160" font-family="Fira Code, monospace">When I'm not coding, you can find me exploring new places, reading books, or playing video games.</tspan>
-      </text>
-      <!-- <text x="0" y="540" fill="white">
-        <tspan font-family="Fira Code, monospace" font-size="40">This text will use the Fira Code font and the gradient.</tspan>
-      </text> -->
-      <text fill="white" font-size="30" class="my-font" alignment-baseline="text-before-edge">
-        <tspan x="0" y="200" font-family="Fira Code, monospace">Feel free to take a look at my projects and don't hesitate to reach out if you have any questions!</tspan>
-      </text>
-    </mask>
-  </defs>
-  <rect x="0" y="0" width="100%" height="100%" fill="url(#gradient)" mask="url(#text-mask)"/>
-</svg>
-
-
+<span color="red">red</span> 
+<!-- This is test -->
 <!--
 This section will be introduction page.
 -->
