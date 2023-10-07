@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@600">
 </head>
 
-![Header Image](./Imgos/download.png)
+![Header Image](./Image/download.png)
 <!-- <style>
 .center {
   display: block;
@@ -21,8 +21,8 @@
 This section will be introduction page.
 -->
 
-<span color="red">red</span> 
-<!-- This is test -->
+
+
 <!--
 This section will be introduction page.
 -->
