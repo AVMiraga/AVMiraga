@@ -1,8 +1,14 @@
 <!---
 slm :D
 --->
+<style>
+  h1 {
+      text-align:center;
+  }
+</style>
 
-<h1 style:"text-align:center;">
-  &lt;&sol;&gt;
+<h1 style:"text-align:">
+  me koder &lt;&sol;&gt;
+  <img src="https://cdn.discordapp.com/emojis/1073646643703971913.webp?size=48&quality=lossless"/>
 </h1>
 <img src="/profile-3d-contrib/profile-night-rainbow.svg"/>
