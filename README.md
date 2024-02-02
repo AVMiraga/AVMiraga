@@ -1,13 +1,7 @@
 <!---
 slm :D
 --->
-<style>
-  h1 {
-      text-align:center;
-  }
-</style>
-
-<h1 style:"text-align:">
+<h1 align="center">
   me koder &lt;&sol;&gt;
   <img src="https://cdn.discordapp.com/emojis/1073646643703971913.webp?size=48&quality=lossless"/>
 </h1>
