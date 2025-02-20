@@ -2,7 +2,10 @@
 slm :D
 --->
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/22f46779-5496-4e58-ba38-afdc11b2c087"/>
+<!--   <img src="https://github.com/user-attachments/assets/22f46779-5496-4e58-ba38-afdc11b2c087"/> -->
+ <img style="width:50%" src="https://github.com/user-attachments/assets/adb7d79d-c240-41b3-aee7-bb5ae5a47d8e"/>
+
+
 <!--   me koder &lt;&sol;&gt;
   <img src="https://cdn.discordapp.com/emojis/1073646643703971913.webp?size=48&quality=lossless"/> -->
   <p align="center">hmm</p>
