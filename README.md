@@ -22,13 +22,3 @@ slm :D
     <img src="https://cdn.discordapp.com/emojis/750926380077809686.webp?size=32&quality=lossless" >
 </h3>
 -->
-<h3 align="center">
-    HE CHASED BUTTERFLIES<br>
-    HE LOVED TO LAUGH<br>
-    HE SAVED THE UNIVERSE<br>
-    HE WAS OUR FRIEND<br>
-    POPS MAELLARD<br>
-    💐💐💐
-</h3>
-
-
