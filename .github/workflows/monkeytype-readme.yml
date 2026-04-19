@@ -20,10 +20,10 @@ jobs:
             - name: Download SVG
               run: |
                   mkdir monkeytype-readme-svg
-                  curl -o monkeytype-readme-svg/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/AVMiraga/tron_orange
-                  curl -o monkeytype-readme-svg/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/tron_orange?lb=true
-                  curl -o monkeytype-readme-svg/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/tron_orange?pb=true
-                  curl -o monkeytype-readme-svg/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/tron_orange?lbpb=true
+                  curl -o monkeytype-readme-svg/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/AVMiraga/chaos_theory
+                  curl -o monkeytype-readme-svg/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/chaos_theory?lb=true
+                  curl -o monkeytype-readme-svg/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/chaos_theory?pb=true
+                  curl -o monkeytype-readme-svg/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/AVMiraga/chaos_theory?lbpb=true
 
             - name: push monkeytype-readme.svg to the monkeytype-readme branch
               uses: crazy-max/ghaction-github-pages@v4.0.0
