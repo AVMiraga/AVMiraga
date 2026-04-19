@@ -14,7 +14,7 @@ meow /| ､
      じしf_,)〳
 
 <a href="https://monkeytype.com/profile/AVMiraga">
-    <img src="https://raw.githubusercontent.com/AVMiraga/AVMiraga/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    <img src="https://raw.githubusercontent.com/AVMiraga/AVMiraga/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
 </pre>
 
