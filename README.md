@@ -11,12 +11,11 @@ slm :D
 meow /| ､      
     (°､ ｡ 7    
      |､  ~ヽ   
-     じしf_,)〳
+     じしf_,)〳</pre>
 
-<a href="https://monkeytype.com/profile/AVMiraga">
+<a align=center href="https://monkeytype.com/profile/AVMiraga">
     <img src="https://raw.githubusercontent.com/AVMiraga/AVMiraga/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
 </a>
-</pre>
 
 <!--   me koder &lt;&sol;&gt;
   <img src="https://cdn.discordapp.com/emojis/1073646643703971913.webp?size=48&quality=lossless"/> -->
