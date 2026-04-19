@@ -11,7 +11,12 @@ slm :D
 meow /| ､      
     (°､ ｡ 7    
      |､  ~ヽ   
-     じしf_,)〳</pre>
+     じしf_,)〳
+
+<a href="https://monkeytype.com/profile/AVMiraga">
+    <img src="https://raw.githubusercontent.com/AVMiraga/AVMiraga/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+</pre>
 
 <!--   me koder &lt;&sol;&gt;
   <img src="https://cdn.discordapp.com/emojis/1073646643703971913.webp?size=48&quality=lossless"/> -->
@@ -28,3 +33,4 @@ meow /| ､
     <img src="https://cdn.discordapp.com/emojis/750926380077809686.webp?size=32&quality=lossless" >
 </h3>
 -->
+
